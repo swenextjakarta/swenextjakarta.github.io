@@ -153,7 +153,7 @@ textarea {
   font-family: 'Poppins', sans-serif;
 }
 input[type="text"]{
-  width: 50%;
+  width: 70%;
 }
 input[type="email"],
 textarea {
@@ -164,7 +164,7 @@ textarea {
   font-family: 'Poppins', sans-serif;
 }
 input[type="email"]{
-  width: 50%;
+  width: 70%;
 }
 
 input[type="submit"] {
