@@ -125,6 +125,25 @@ a:hover {
   opacity: 0.8;
 }
 
+.eventscolumn {
+  float: left;
+  width: 33.3%;
+  padding: 3%; 
+}
+
+.eventscard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.eventscontainer {
+  padding: 0 16px;
+}
+
+.eventscontainer::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 *:focus {
   outline-color: #57c8e7;
