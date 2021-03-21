@@ -78,10 +78,8 @@ a:link {
 
 .teamcolumn {
   float: left;
-  width: 33.3%;
-  margin-bottom: 5%;
-  margin-left: 7%;
-  margin-right: 8%;
+  width: 50%;
+  padding: 5%; 
 }
 
 .teamcard {
