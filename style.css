@@ -112,3 +112,64 @@ a:link {
 .teamcontactbutton:hover {
   opacity: 0.8;
 }
+
+
+*:focus {
+  outline-color: #57c8e7;
+}
+
+/* SECTION WRAPPER */
+.wrapper {
+  width: 85%;
+  margin: 0 auto;
+}
+
+/* FORM STYLES */
+
+label{
+  display: block;
+  margin-bottom: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+input[type="text"],
+textarea {
+  width: 80%;
+  border: 1px solid #7dd4ec;
+  background: #e4f4f8;
+  margin-bottom: 2%;
+  font-family: 'Poppins', sans-serif;
+}
+input[type="text"]{
+  width: 50%;
+}
+input[type="email"],
+textarea {
+  width: 80%;
+  border: 1px solid #7dd4ec;
+  background: #e4f4f8;
+  margin-bottom: 2%;
+  font-family: 'Poppins', sans-serif;
+}
+input[type="email"]{
+  width: 50%;
+}
+
+input[type="submit"] {
+  display: block;
+  margin: 20px auto 50px;
+  height: 34px;
+  width: 125px;
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 0.5px;
+  background: #57c8e7;
+  border: 0px solid;
+  color: #fff;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+}
+input[type="submit"]:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
