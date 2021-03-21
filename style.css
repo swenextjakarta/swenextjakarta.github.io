@@ -86,7 +86,6 @@ a:visited {
 a:hover {
   color: gray;
   background-color: transparent;
-  text-decoration: underline;
 }
 
 .teamcolumn {
