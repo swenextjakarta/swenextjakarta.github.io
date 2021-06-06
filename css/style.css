@@ -674,7 +674,7 @@ nav.navbar .navbar-collapse-centered {
 
 
 .main-header .b-text {
-    font-size: 80px;
+    font-size: 8.5vh;
     font-weight: 700;
     color: #ffffff;
     line-height: 64px;
@@ -683,7 +683,7 @@ nav.navbar .navbar-collapse-centered {
 }
 
 .main-header .m-text {
-    font-size: 23px;
+    font-size: 3vh;
     font-weight: 300;
     color: #ffffff;
     margin-bottom: 55px;
