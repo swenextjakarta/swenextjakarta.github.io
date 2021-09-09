@@ -737,10 +737,6 @@ nav.navbar .navbar-collapse-centered {
     display: table;
   }
 
-.eventsimageborder {
-    border-radius: 10px 10px 0px 0px; 
-} 
-
 @media screen and (max-width: 700px) {
     .eventscolumn {
       width: 100%;
@@ -925,6 +921,10 @@ nav.navbar .navbar-collapse-centered {
 /*------------------------------------------------------------------
 	7 - Other Sections Styles
 -------------------------------------------------------------------*/
+
+.cardimageborder {
+    border-radius: 10px 10px 0px 0px; 
+} 
 
 .text-box {
     color: white;
