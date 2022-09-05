@@ -986,6 +986,11 @@ nav.navbar .navbar-collapse-centered {
     opacity: 0.8;
   }
 
+  .teamimg {
+    width:  100px;
+    height: 600px;
+  }
+
   @media screen and (max-width: 700px) {
     .teamcolumn {
       width: 100%;
